@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= event.title %></title>
+    <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/EventDetails.css">
+    <link href="https://fonts.googleapis.com/css2?family=Exo:wght@400;500;600&family=Nunito:wght@400;600&family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <%- include('partials/header') %>
+    <main>
+    <h2><%= event.caption %></h2>
+    <div class="event-content">
+        <div class="event-details">
+            <section class="description">
+                <h3>Description</h3>
+                <p><%= event.description || "No description available" %></p>
+            </section>
+            <section class="date-time">
+                <h3>Date and Time</h3>
+                <p><%= event.date || "TBA" %><br><%= event.time || "TBA" %></p>
+            </section>
+            <section class="location">
+                <h3>Location</h3>
+                <p><%= event.location || "Venue not specified" %></p>
+            </section>
+        </div>
+        <div class="event-image">
+            <img src="<%= event.url %>" alt="<%= event.caption %> Poster">
+        </div>
+    </div>
+</main>
+
+    <script src="/js/EventDetails.js"></script>
+</body>
+</html>

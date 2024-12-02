@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Reading 101",
+      "description": "Whether you're a seasoned reader or just looking to start your reading journey, LiQuiD's 'Reading 101' is the perfect event for you! Join us for an exciting launch of our new book club, where we'll explore a variety of genres, share recommendations, and spark engaging discussions. Everyone is welcome—whether you're passionate about books or eager to learn the art of reading. Come be part of our literary adventure!",
+      "date": "22nd April, 2024",
+      "time": "6:30 PM onwards",
+      "location": "GA-U01, BML Munjal University",
+      "imagePath": "/images/Events/reading101.png"
+    },
+    {
+      "title": "Trivia Night",
+      "description": "Flex your knowledge muscles at LiQuiD's Trivia Night! With exciting rounds ranging from pop culture to history, this is your chance to prove your quizzing prowess. Bring your team or join one on the spot, and let the games begin!",
+      "date": "5th May, 2024",
+      "time": "8:00 PM onwards",
+      "location": "Auditorium, BML Munjal University",
+      "imagePath": "/images/Events/triviaNight.png"
+    },
+    {
+      "title": "Debate 2024: Clash of Perspectives",
+      "description": "Take a stand and let your voice be heard at our Debate Championship! Participants will tackle pressing topics and challenge each other's viewpoints in this thought-provoking event. Register as a speaker or join as an audience member.",
+      "date": "12th May, 2024",
+      "time": "3:00 PM onwards",
+      "location": "Room 101, BML Munjal University",
+      "imagePath": "/images/Events/Debate.png"
+    }
+  ]
+  

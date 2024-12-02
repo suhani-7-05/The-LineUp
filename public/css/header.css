@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: #121520;
+    color: white;
+    margin-bottom: 0px; 
+    position: relative;
+}   
+
+body {
+    font-family:'Exo','Nunito','Ubuntu';
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #1A1D3C 17%, #121520 31%);
+    color: #FFF;
+}
+
+
+.logo {
+    position: absolute;  
+    top: 10px;           
+    left: 20px;          
+    width: 200px;        
+    height: auto;        
+}
+
+.top-right-icons {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    display: flex;
+    gap: 15px;
+}
+
+/* Style for the image icons */
+.icon {
+    width: 45px; /* Set desired width */
+    height: 45px; /* Set desired height */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: transform 0.3s ease; /* Smooth scaling effect on hover */
+}
+
+/* Hover effect for icons */
+.icon:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+/* Container for search bar to center it */
+.search-bar-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0px; /* Space between input and button */
+    position: absolute;
+    top: 40px;
+    left: 50%;
+    height:20px;
+    transform: translate(-50%, -50%);
+}
+
+/* Style for the search input */
+.search-bar {
+    width: 400px; /* Adjust width as needed */
+    color: aliceblue;
+    padding: 10px 15px;
+    border: 1px solid #070707;
+    border-radius: 50px 0px 0px 50px  ; /* Rounded corners on the left */
+    font-size: 16px;
+    outline: none;
+    background-color: #3b3d4c;
+}
+
+/* Style for the search button */
+.search-button {
+    width:100px;
+    padding: 10px 10px;
+    border: 1px solid #070707;
+    background-color: #3b3d4c;
+    color: #FFF;
+    border-radius: 0px 50px 50px 0px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+.searchIcon{
+    height: 15px;
+    width: 15px;
+}
+/* Hover effect for the search button */
+.search-button:hover {
+    background-color: #1581c0;
+}

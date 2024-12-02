@@ -1,0 +1,29 @@
+{
+    "RecentEvents": [
+        { "url": "/images/RecentEvent/VoicesUnbound.png", "caption": "Voices Unbound" },
+        { "url": "/images/RecentEvent/PlantEnv.png", "caption": "Savera Event" },
+        { "url": "/images/RecentEvent/Chathurthi.png", "caption": "Ganesh Chathurthi" },
+        { "url": "/images/RecentEvent/Krystal.png", "caption": "Krystal" },
+        { "url": "/images/RecentEvent/COD.png", "caption": "Sierra COD" },
+        { "url": "/images/RecentEvent/PFAkrystal.png", "caption": "PFA Event" }
+    ], 
+    "UpcomingEvents":[
+        { "url": "/images/upcomingEvents/bgmi.png" },
+        { "url": "/images/upcomingEvents/KrystalSavera.png" },
+        { "url": "/images/upcomingEvents/LiQuiDReading.png" },
+        { "url": "/images/upcomingEvents/PACevent.png" },
+        { "url": "/images/upcomingEvents/TEDX.png" },
+        { "url": "/images/upcomingEvents/SaveraJamfest.png" },
+        { "url": "/images/upcomingEvents/PACworkshop.png" }
+    ],
+    "Clubs":[
+        { "logo": "/images/ClubLogos/LIQUID.png", "name": "LiQuiD" },
+        { "logo": "/images/ClubLogos/PAC.png", "name": "Photography Club" },
+        { "logo": "/images/ClubLogos/PFA.png", "name": "Performing Arts Club" },
+        { "logo": "/images/ClubLogos/Savera.png", "name": "Savera" },
+        { "logo": "/images/ClubLogos/Strokes.png", "name": "Strokes" },
+        { "logo": "/images/ClubLogos/TSEC.png", "name": "TSEC" },
+        { "logo": "/images/ClubLogos/SIERRA.png", "name": "SIERRA" }
+    ]
+      
+}

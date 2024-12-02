@@ -1,0 +1,11 @@
+_id,username,email,password
+674d31dd82fb1baf37e52a30,john_doe,john@example.com,John123
+674d31dd82fb1baf37e52a31,jane_smith,jane@example.com,Jane123
+674d31dd82fb1baf37e52a32,rohit123,rohit@sample.com,Rohit123
+674d31dd82fb1baf37e52a33,aliya_k,aliya.khan@example.com,Aliya123
+674d31dd82fb1baf37e52a34,tech_guy,techguy@example.com,Tech123
+674d31dd82fb1baf37e52a35,random_user,random_user@gmail.com,Random123
+674d31dd82fb1baf37e52a36,suhani_rocks,suhani@thelineup.com,Suhani123
+674d31dd82fb1baf37e52a37,club_admin,admin@clubs.com,Admin123
+674d31dd82fb1baf37e52a38,event_host,host@events.com,Host123
+674d31dd82fb1baf37e52a39,guest_user,guest@example.com,Guest123
